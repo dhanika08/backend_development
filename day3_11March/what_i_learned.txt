@@ -1,0 +1,4 @@
+1. I learned to do data modelling in mono db using mongoose
+2. First create a folder named models, then inside goes the project folder and then the files
+3. Schemas are created in every file. The name in monog db of the schema will changed to lowercase(schema_name) + s
+4. We can add timestamps for created time and updated time to keep the track
